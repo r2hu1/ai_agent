@@ -6,9 +6,7 @@ A step-by-step reasoning AI agent powered by OpenAI's GPT API. It simulates a to
 
 - 🔁 Interactive command-line interface
 - 📚 Reasoning based on a planning-action-observation loop
-- 🛠️ Tool execution framework with:
-  - `get_weather`: Fetch current weather for a city using `wttr.in`
-  - `run_command`: Run Linux shell commands securely
+- 🛠️ Tool execution framework
 - 🌐 Uses OpenAI's GPT API (via `openai` Python client)
 - 🔒 Environment variable support via `.env`
 
